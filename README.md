@@ -28,4 +28,3 @@ in Web3 integration with web3.js & etherjs too. I also work on smart contract an
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itxnaeem007&show_icons=true&locale=en" alt="itxnaeem007" /></p>
