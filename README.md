@@ -28,4 +28,5 @@ in Web3 integration with web3.js & etherjs too. I also work on smart contract an
 ![Netlify](http://img.shields.io/badge/-Netlify-15847D?style=flat-square&logo=netlify&logoColor=white)
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Web3](https://img.shields.io/badge/web3-%23007ACC.svg?style=flat-square&logo=web3&logoColor=white)
 
