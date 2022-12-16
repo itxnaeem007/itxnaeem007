@@ -21,7 +21,7 @@ in Web3 integration with web3.js & etherjs too. I also work on smart contract an
 ![Redux](https://img.shields.io/badge/-Redux-%23593d88?style=flat-square&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL&logoColor=de33a6)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Web3](http://img.shields.io/badge/-Web3%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Web3](http://img.shields.io/badge/-Web3%20Code-007ACC?style=flat-square&logo=web3&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
