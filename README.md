@@ -3,7 +3,7 @@
 
 I am MERN stack developer with experience in modern tech stack, tools & technologies. I have a good grasp on technologies like GraphQL & Firebase etc. I have expertise
 in Web3 integration with web3.js & etherjs too. I also work on smart contract and web3 wallets integaation.
-
+<img align="right" width="200" src="https://github.com/danba340/svg-animation-readme-example/raw/master/animatedkitty.svg" style="max-width: 100%;">
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/naeem-akram-3893581a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
